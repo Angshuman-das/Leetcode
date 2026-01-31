@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Angshuman-das/Leetcode/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Angshuman-das/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0169-majority-element](https://github.com/Angshuman-das/Leetcode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Angshuman-das/Leetcode/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/Angshuman-das/Leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Angshuman-das/Leetcode/tree/master/0283-move-zeroes) |
@@ -17,14 +18,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Angshuman-das/Leetcode/tree/master/0001-two-sum) |
+| [0169-majority-element](https://github.com/Angshuman-das/Leetcode/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/Angshuman-das/Leetcode/tree/master/0268-missing-number) |
 ## Divide and Conquer
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Angshuman-das/Leetcode/tree/master/0169-majority-element) |
 | [0912-sort-an-array](https://github.com/Angshuman-das/Leetcode/tree/master/0912-sort-an-array) |
 ## Sorting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Angshuman-das/Leetcode/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/Angshuman-das/Leetcode/tree/master/0268-missing-number) |
 | [0912-sort-an-array](https://github.com/Angshuman-das/Leetcode/tree/master/0912-sort-an-array) |
 ## Heap (Priority Queue)
@@ -46,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting Sort
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Angshuman-das/Leetcode/tree/master/0169-majority-element) |
 | [0912-sort-an-array](https://github.com/Angshuman-das/Leetcode/tree/master/0912-sort-an-array) |
 ## Math
 |  |
