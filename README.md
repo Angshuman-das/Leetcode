@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Angshuman-das/Leetcode/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Angshuman-das/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0048-rotate-image](https://github.com/Angshuman-das/Leetcode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Angshuman-das/Leetcode/tree/master/0054-spiral-matrix) |
 | [0169-majority-element](https://github.com/Angshuman-das/Leetcode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Angshuman-das/Leetcode/tree/master/0189-rotate-array) |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/Angshuman-das/Leetcode/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/Angshuman-das/Leetcode/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/Angshuman-das/Leetcode/tree/master/0268-missing-number) |
 ## Two Pointers
@@ -83,5 +85,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/Angshuman-das/Leetcode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Angshuman-das/Leetcode/tree/master/0054-spiral-matrix) |
 <!---LeetCode Topics End-->
