@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Angshuman-das/Leetcode/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Angshuman-das/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0189-rotate-array](https://github.com/Angshuman-das/Leetcode/tree/master/0189-rotate-array) |
+| [0268-missing-number](https://github.com/Angshuman-das/Leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Angshuman-das/Leetcode/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/Angshuman-das/Leetcode/tree/master/0485-max-consecutive-ones) |
 | [0912-sort-an-array](https://github.com/Angshuman-das/Leetcode/tree/master/0912-sort-an-array) |
@@ -16,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Angshuman-das/Leetcode/tree/master/0001-two-sum) |
+| [0268-missing-number](https://github.com/Angshuman-das/Leetcode/tree/master/0268-missing-number) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -23,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/Angshuman-das/Leetcode/tree/master/0268-missing-number) |
 | [0912-sort-an-array](https://github.com/Angshuman-das/Leetcode/tree/master/0912-sort-an-array) |
 ## Heap (Priority Queue)
 |  |
@@ -48,10 +51,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/Angshuman-das/Leetcode/tree/master/0189-rotate-array) |
+| [0268-missing-number](https://github.com/Angshuman-das/Leetcode/tree/master/0268-missing-number) |
 ## Two Pointers
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Angshuman-das/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0189-rotate-array](https://github.com/Angshuman-das/Leetcode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Angshuman-das/Leetcode/tree/master/0283-move-zeroes) |
+## Binary Search
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/Angshuman-das/Leetcode/tree/master/0268-missing-number) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/Angshuman-das/Leetcode/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
