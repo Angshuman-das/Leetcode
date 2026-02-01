@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/Angshuman-das/Leetcode/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/Angshuman-das/Leetcode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Angshuman-das/Leetcode/tree/master/0189-rotate-array) |
+| [0229-majority-element-ii](https://github.com/Angshuman-das/Leetcode/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/Angshuman-das/Leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Angshuman-das/Leetcode/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/Angshuman-das/Leetcode/tree/master/0485-max-consecutive-ones) |
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Angshuman-das/Leetcode/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/Angshuman-das/Leetcode/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/Angshuman-das/Leetcode/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/Angshuman-das/Leetcode/tree/master/0268-missing-number) |
 ## Divide and Conquer
 |  |
@@ -41,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/Angshuman-das/Leetcode/tree/master/0018-4sum) |
 | [0075-sort-colors](https://github.com/Angshuman-das/Leetcode/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/Angshuman-das/Leetcode/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/Angshuman-das/Leetcode/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/Angshuman-das/Leetcode/tree/master/0268-missing-number) |
 | [0912-sort-an-array](https://github.com/Angshuman-das/Leetcode/tree/master/0912-sort-an-array) |
 ## Heap (Priority Queue)
@@ -63,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Angshuman-das/Leetcode/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/Angshuman-das/Leetcode/tree/master/0229-majority-element-ii) |
 | [0912-sort-an-array](https://github.com/Angshuman-das/Leetcode/tree/master/0912-sort-an-array) |
 ## Math
 |  |
