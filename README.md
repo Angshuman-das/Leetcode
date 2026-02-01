@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/Angshuman-das/Leetcode/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Angshuman-das/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0048-rotate-image](https://github.com/Angshuman-das/Leetcode/tree/master/0048-rotate-image) |
+| [0053-maximum-subarray](https://github.com/Angshuman-das/Leetcode/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/Angshuman-das/Leetcode/tree/master/0054-spiral-matrix) |
 | [0075-sort-colors](https://github.com/Angshuman-das/Leetcode/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/Angshuman-das/Leetcode/tree/master/0169-majority-element) |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/Angshuman-das/Leetcode/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/Angshuman-das/Leetcode/tree/master/0169-majority-element) |
 | [0912-sort-an-array](https://github.com/Angshuman-das/Leetcode/tree/master/0912-sort-an-array) |
 ## Sorting
@@ -96,4 +98,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/Angshuman-das/Leetcode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Angshuman-das/Leetcode/tree/master/0054-spiral-matrix) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/Angshuman-das/Leetcode/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
