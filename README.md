@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/Angshuman-das/Leetcode/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/Angshuman-das/Leetcode/tree/master/0054-spiral-matrix) |
 | [0075-sort-colors](https://github.com/Angshuman-das/Leetcode/tree/master/0075-sort-colors) |
+| [0078-subsets](https://github.com/Angshuman-das/Leetcode/tree/master/0078-subsets) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Angshuman-das/Leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/Angshuman-das/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0152-maximum-product-subarray](https://github.com/Angshuman-das/Leetcode/tree/master/0152-maximum-product-subarray) |
@@ -119,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/Angshuman-das/Leetcode/tree/master/0078-subsets) |
 | [0268-missing-number](https://github.com/Angshuman-das/Leetcode/tree/master/0268-missing-number) |
 ## Simulation
 |  |
@@ -175,4 +177,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Angshuman-das/Leetcode/tree/master/0022-generate-parentheses) |
+| [0078-subsets](https://github.com/Angshuman-das/Leetcode/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
