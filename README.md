@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/Angshuman-das/Leetcode/tree/master/0704-binary-search) |
 | [0912-sort-an-array](https://github.com/Angshuman-das/Leetcode/tree/master/0912-sort-an-array) |
 | [1004-max-consecutive-ones-iii](https://github.com/Angshuman-das/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
+| [1089-duplicate-zeros](https://github.com/Angshuman-das/Leetcode/tree/master/1089-duplicate-zeros) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/Angshuman-das/Leetcode/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Angshuman-das/Leetcode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Angshuman-das/Leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/Angshuman-das/Leetcode/tree/master/0075-sort-colors) |
 | [0189-rotate-array](https://github.com/Angshuman-das/Leetcode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Angshuman-das/Leetcode/tree/master/0283-move-zeroes) |
+| [1089-duplicate-zeros](https://github.com/Angshuman-das/Leetcode/tree/master/1089-duplicate-zeros) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Angshuman-das/Leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Binary Search
 |  |
