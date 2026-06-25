@@ -1,27 +1,29 @@
 class Solution {
     func subsets(_ nums: [Int]) -> [[Int]] {
-        var result: [[Int]] = []
-        // left
-        findSubsets(nums, [nums[0]], &result, 1)
-
-        // right
-        findSubsets(nums, [], &result, 1)
-
-        return result
+        var subsets: [[Int]] = []
+        dfs(0, [], &subsets, nums)
+        return subsets
     }
 
-    func findSubsets(_ nums: [Int], _ subset: [Int], _ result: inout [[Int]], _ i: Int) {
-        guard i <= (nums.count - 1) else {
-            result.append(subset)
+    func dfs(
+        _ i: Int,
+        _ subseq: [Int],
+        _ res: inout [[Int]],
+        _ nums: [Int]
+    ) {
+        guard i < nums.count else {
+            res.append(subseq)
             return
-        }
+        } 
+        
+        var subseq = subseq
 
         // left
-        var leftSubset = subset
-        leftSubset.append(nums[i])
-        findSubsets(nums, leftSubset, &result, i + 1)
+        subseq.append(nums[i])
+        dfs(i + 1, subseq, &res, nums)
 
         // right
-        findSubsets(nums, subset, &result, i + 1)
+        subseq.removeLast()
+        dfs(i + 1, subseq, &res, nums)
     }
 }
